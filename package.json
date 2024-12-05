@@ -1,0 +1,16 @@
+{
+  "name": "radar-visualization",
+  "version": "1.0.0",
+  "description": "Radar visualization",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "plotly.js": "^2.11.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [],
+  "author": "Кирилл Кирьяк"
+}
