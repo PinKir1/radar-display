@@ -1,4 +1,5 @@
 # Radar Display
+Completed
 
 ## Project Overview
 Radar Target Display is a web-based application designed to visualize radar measurements in real-time. It connects to a radar emulation service via WebSocket, processes incoming data, and dynamically displays the detected targets on a polar chart. The system allows for adjusting radar settings through an intuitive user interface and updates the chart as new data is received.
